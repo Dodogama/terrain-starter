@@ -1,0 +1,6 @@
+PyOpenGL
+glfw
+numpy
+Pillow
+maturin
+lupa
